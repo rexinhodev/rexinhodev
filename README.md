@@ -2,59 +2,113 @@
   <img src="./assets/banner.png" alt="REXINHO — Full Stack Software Engineer" width="100%" />
 </div>
 
-# Hi, I'm Rex 👋
+<div align="center">
 
-**Full Stack Software Engineer** · Cloud & AI Enthusiast · Founder of [Bitsxer](https://bitsxer.com)
+# ¡Hola, soy Rex! 👋
 
-```text
-rex@github:~$ whoami
-> Software engineer building scalable applications,
-  exploring AI, and turning ideas into digital products.
-```
+### Ingeniero de Software Full Stack | Arquitectura · Cloud · IA
 
-I'm a software engineer with **10+ years of experience** building applications across backend, frontend, databases, and cloud infrastructure. I enjoy solving real-world problems, designing maintainable systems, and learning continuously.
+**Más de 10 años construyendo soluciones de software.**
 
-### > Tech stack
+Diseño aplicaciones escalables, desarrollo productos digitales
+y exploro cómo la inteligencia artificial puede transformar
+nuestra manera de crear tecnología.
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | C#, Python, TypeScript, JavaScript, SQL |
-| **Frontend** | React, Next.js, Angular, Blazor, HTML, CSS |
-| **Backend** | .NET, ASP.NET Core, FastAPI, Django, Node.js, NestJS |
-| **Cloud & DevOps** | AWS, Terraform, Docker, Linux, Nginx |
-| **Databases** | PostgreSQL, SQL Server, MySQL, SQLite, DynamoDB |
-| **Architecture** | Clean Architecture, CQRS, SOLID, REST APIs, Serverless |
-
-### > Currently exploring
-
-- Building full-stack applications and SaaS products.
-- Strengthening frontend expertise alongside backend and architecture.
-- Exploring AI-assisted development and intelligent automation.
-- Sharing practical lessons from real-world engineering.
-
-### > Engineering mindset
-
-```text
-Think before coding.
-Build with purpose.
-Keep it simple.
-Measure what matters.
-Never stop learning.
-```
-
-### > Beyond the code
-
-I'm the founder of **[Bitsxer](https://bitsxer.com)**, focused on turning software and technology into useful digital solutions.
-
-### > Connect
-
-- **GitHub:** [@rexinhodev](https://github.com/rexinhodev)
-- **Website:** rexinho.dev *(coming soon)*
-- **Company:** [Bitsxer](https://bitsxer.com)
+</div>
 
 ---
 
-```text
-rex@github:~$ echo "Keep building."
-Keep building.
+### > Sobre mí
+
+```bash
+rex@github:~$ whoami
 ```
+
+Soy **Ingeniero de Software**, especializado en el desarrollo de aplicaciones **Full Stack**, con una sólida experiencia en backend, bases de datos y soluciones en la nube.
+
+Me apasiona comprender cómo funcionan los sistemas, diseñar arquitecturas mantenibles y encontrar soluciones eficientes a problemas reales.
+
+Actualmente estoy profundizando en arquitectura de software, retomando tecnologías frontend modernas y explorando el desarrollo asistido por IA.
+
+También soy fundador de **[Bitsxer](https://bitsxer.com)**, mi empresa de soluciones tecnológicas.
+
+---
+
+### > Mi stack tecnológico
+
+**Lenguajes**
+
+`C#` `Python` `TypeScript` `JavaScript` `SQL`
+
+**Frontend**
+
+`React` `Next.js` `Angular` `Blazor` `HTML` `CSS`
+
+**Backend**
+
+`.NET` `ASP.NET Core` `FastAPI` `Django` `Node.js` `NestJS`
+
+**Cloud & DevOps**
+
+`AWS` `Terraform` `Docker` `Linux` `Nginx`
+
+**Bases de datos**
+
+`PostgreSQL` `SQL Server` `MySQL` `SQLite` `DynamoDB`
+
+**Arquitectura y buenas prácticas**
+
+`Clean Architecture` `SOLID` `CQRS` `REST APIs`
+`Microservicios` `Serverless` `Patrones de diseño`
+
+---
+
+### > ¿En qué estoy trabajando?
+
+- 🚀 Desarrollo de aplicaciones Full Stack y productos SaaS.
+- 🏗️ Arquitectura de software y diseño de sistemas escalables.
+- ☁️ Infraestructura cloud, automatización y DevOps.
+- 🤖 Integración de inteligencia artificial y agentes de IA.
+- 📚 Aprendizaje continuo y mejora de mis habilidades técnicas.
+
+---
+
+### > Mi filosofía como ingeniero
+
+```text
+> Comprender antes de implementar.
+> Diseñar con propósito.
+> Mantener las soluciones simples.
+> Medir antes de optimizar.
+> Nunca dejar de aprender.
+```
+
+Creo que desarrollar software no consiste únicamente en escribir código.
+
+Se trata de **comprender problemas, tomar buenas decisiones técnicas y construir soluciones que puedan evolucionar con el tiempo**.
+
+---
+
+### > Más allá del código
+
+Soy fundador de **[Bitsxer](https://bitsxer.com)**, donde impulso el desarrollo de soluciones digitales, automatización y productos tecnológicos.
+
+Me interesa transformar ideas en productos que generen valor real.
+
+---
+
+### > Conectemos
+
+- 💻 **GitHub:** [@rexinhodev](https://github.com/rexinhodev)
+- 🌐 **Web:** rexinho.dev (próximamente)
+- 🏢 **Empresa:** [Bitsxer](https://bitsxer.com)
+
+---
+
+<div align="center">
+
+**Aprendiendo, construyendo y evolucionando.**
+
+`rex@github:~$ echo "¡Sigamos construyendo!"`
+
+</div>
