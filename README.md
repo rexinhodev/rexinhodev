@@ -9,8 +9,7 @@
 
 **Arquitectura de Software · Cloud · Inteligencia Artificial**
 
-Más de 10 años desarrollando soluciones de software,
-resolviendo problemas y aprendiendo nuevas tecnologías.
+Más de 10 años diseñando, desarrollando y construyendo soluciones de software.
 
 </div>
 
@@ -18,13 +17,15 @@ resolviendo problemas y aprendiendo nuevas tecnologías.
 
 ## `> whoami`
 
-Soy **Ingeniero de Software Full Stack**, con más de 10 años de experiencia en desarrollo de aplicaciones, bases de datos y soluciones empresariales.
+Soy **Ingeniero de Software Full Stack**, con más de 10 años de experiencia diseñando, desarrollando e implementando soluciones tecnológicas.
 
-Mi experiencia se centra principalmente en el ecosistema **.NET/C#**, el desarrollo backend y el diseño de soluciones de software. También trabajo con Python, tecnologías frontend y servicios cloud.
+A lo largo de mi trayectoria he trabajado con diferentes lenguajes de programación, frameworks, bases de datos y plataformas, participando en distintas etapas del ciclo de vida del software, desde el análisis y diseño hasta la implementación y el despliegue.
 
-Me interesa comprender no solo **cómo implementar una solución**, sino también **por qué elegir una arquitectura, un patrón o una tecnología**.
+Me interesa comprender **cómo funcionan los sistemas, cómo se relacionan sus componentes y qué decisiones técnicas permiten construir soluciones eficientes, seguras y mantenibles**.
 
-Actualmente estoy profundizando en arquitectura de software, fortaleciendo mis habilidades frontend y explorando la inteligencia artificial aplicada al desarrollo.
+Disfruto tanto del desarrollo frontend como del backend, la arquitectura de software y la infraestructura cloud. Considero que las tecnologías son herramientas y que lo verdaderamente importante es **saber elegirlas y utilizarlas para resolver problemas reales**.
+
+Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, desarrollo Full Stack e inteligencia artificial aplicada a la ingeniería de software.
 
 ---
 
@@ -34,13 +35,13 @@ Actualmente estoy profundizando en arquitectura de software, fortaleciendo mis h
 
 `C#` `Python` `TypeScript` `JavaScript` `SQL`
 
-### Backend
-
-`.NET` `ASP.NET Core` `FastAPI` `Django` `Node.js` `NestJS`
-
 ### Frontend
 
 `React` `Next.js` `Angular` `Blazor` `HTML` `CSS`
+
+### Backend
+
+`.NET` `ASP.NET Core` `FastAPI` `Django` `Node.js` `NestJS`
 
 ### Cloud & DevOps
 
@@ -52,7 +53,7 @@ Actualmente estoy profundizando en arquitectura de software, fortaleciendo mis h
 
 ### Arquitectura y buenas prácticas
 
-`Clean Architecture` `SOLID` `CQRS` `REST APIs`
+`Clean Architecture` `SOLID` `CQRS` `REST APIs`  
 `Patrones de diseño` `Microservicios` `Serverless`
 
 > Mi stack está en constante evolución. Algunas tecnologías forman parte de mi experiencia profesional y otras de mi aprendizaje y experimentación actual.
@@ -65,15 +66,15 @@ Estoy organizando este espacio para compartir proyectos, ejemplos prácticos y e
 
 Mi objetivo no es acumular repositorios, sino mostrar **soluciones bien estructuradas, decisiones técnicas fundamentadas y código que aporte valor**.
 
-Próximamente encontrarás proyectos relacionados con:
+### ¿Qué encontrarás próximamente?
 
-- **Backend y APIs:** diseño de servicios, validaciones, seguridad y persistencia.
-- **Frontend y Full Stack:** interfaces modernas e integración con APIs.
-- **Arquitectura de software:** SOLID, Clean Architecture, CQRS y patrones de diseño.
-- **Cloud y DevOps:** contenedores, infraestructura como código y despliegues.
-- **Inteligencia artificial:** agentes, automatización e integración de modelos.
+- **Backend y APIs:** diseño de servicios, validaciones, seguridad, persistencia y pruebas automatizadas.
+- **Frontend y Full Stack:** interfaces modernas, componentes reutilizables e integración con APIs.
+- **Arquitectura de software:** principios SOLID, Clean Architecture, CQRS y patrones de diseño.
+- **Cloud y DevOps:** contenedores, infraestructura como código y despliegues automatizados.
+- **Inteligencia artificial:** integración de modelos, agentes de IA y automatización de procesos.
 
-Cada proyecto tendrá documentación sobre el problema, la solución, las tecnologías utilizadas y las decisiones de diseño.
+Cada proyecto tendrá documentación sobre el problema, la solución propuesta, las tecnologías utilizadas y las decisiones de diseño.
 
 ---
 
@@ -89,17 +90,19 @@ Cada proyecto tendrá documentación sobre el problema, la solución, las tecnol
 
 Creo que la ingeniería de software va más allá de escribir código.
 
-Consiste en **resolver problemas, tomar decisiones conscientes y construir soluciones mantenibles, seguras y capaces de evolucionar**.
+Consiste en **comprender problemas, tomar decisiones conscientes y construir soluciones mantenibles, seguras y capaces de evolucionar**.
+
+Los lenguajes y frameworks son herramientas; la ingeniería consiste en saber **cuándo, cómo y por qué utilizarlos**.
 
 ---
 
 ## `> status --actual`
 
 - 🏗️ Profundizando en arquitectura y diseño de software.
-- 💻 Reforzando mis habilidades Full Stack.
+- 💻 Fortaleciendo mis habilidades Full Stack.
 - ☁️ Explorando soluciones cloud e infraestructura automatizada.
 - 🤖 Aprendiendo sobre inteligencia artificial y agentes de IA.
-- 🚀 Preparando proyectos técnicos para compartir en GitHub.
+- 🚀 Preparando proyectos técnicos y ejemplos prácticos para compartir en GitHub.
 
 ---
 
@@ -112,7 +115,7 @@ Consiste en **resolver problemas, tomar decisiones conscientes y construir soluc
 
 <div align="center">
 
-**Aprendiendo, construyendo y evolucionando.**
+### Aprendiendo, construyendo y evolucionando.
 
 `rex@github:~$ echo "¡Sigamos construyendo!"`
 
